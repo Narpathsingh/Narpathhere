@@ -1,14 +1,13 @@
-<img src="./banner.jpg" alt="name banner" />
+<img src="./name.png" alt="name banner" />
 
 
-### About Me
+- 👋 Hi, I’m @Narpathsingh
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...python,javascript
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...narpathsingh208@gmail.com
 
-
-<div align="center">
-<a href="">
-<img src="https://img.shields.io/badge/visit%20my%20Linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
-</a>
-<a href="mailto:narpathsingh208@gmail.com">
-<img src="https://img.shields.io/badge/email%20me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" />
-</a>
-</div>
+<!---
+Narpathsingh/Narpathsingh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
