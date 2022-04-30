@@ -1,4 +1,4 @@
-<img src="./name.png" alt="name banner" />
+<img src="./background.png" alt="name banner" />
 
 
 - 👋 Hi, I’m @Narpathsingh
