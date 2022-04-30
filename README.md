@@ -3,7 +3,7 @@
 
 - 👋 Hi, I’m @Narpathsingh
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning ...python,javascript
+- 🌱 I’m currently learning ...python, javascript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...narpathsingh208@gmail.com
 
